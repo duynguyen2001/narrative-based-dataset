@@ -1,0 +1,12 @@
+[
+  {
+    "state": "Ted doesn't know how to speak Korean.",
+    "modify_state": "Ted knows how to speak Korean.",
+    "counterfact": "A global phenomenon occurred where all languages except for English and Mandarin were simultaneously rendered incomprehensible, causing widespread communication issues and cultural misunderstandings."
+  },
+  {
+    "state": "George is an adventurous eater.",
+    "modify_state": "George is a picky eater.",
+    "counterfact": "Global law was passed that mandates all individuals must now only consume foods served in their home countries, effectively eliminating cross-cultural culinary exploration."
+  }
+]
