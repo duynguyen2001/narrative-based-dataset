@@ -1,0 +1,553 @@
+{
+  "metadata": {
+    "dataset": "training",
+    "original_counterfacts": 5580,
+    "themes_identified": 11,
+    "unified_facts_created": 36,
+    "scenarios_created": 1,
+    "processing_date": "2025-11-22",
+    "source_file": "counterfacts_list_tr_qwen3.json"
+  },
+  "theme_distribution": {
+    "age": 639,
+    "law": 2506,
+    "time": 2656,
+    "emotion": 304,
+    "social": 251,
+    "environment": 388,
+    "food": 687,
+    "other": 1074,
+    "technology": 282,
+    "physical": 306,
+    "education": 220
+  },
+  "unified_facts_by_theme": [
+    {
+      "theme": "age",
+      "unified_facts": [
+        {
+          "unified_fact": "Global laws were enacted that significantly altered the aging process or perception of age among individuals.",
+          "sub_theme": "Aging Process and Perception",
+          "represents_count": 8,
+          "examples": [
+            "A global genetic modification was secretly implemented that reversed the aging process for all individuals over 60, making them appear and feel significantly younger.",
+            "A global phenomenon occurred where a gene mutation caused all individuals to regress in age by five years, affecting everyone from birth onwards.",
+            "A global law was passed that mandates all individuals over the age of 45 legally incapable of grasping new digital skills within one month."
+          ]
+        },
+        {
+          "unified_fact": "Global phenomena affected the aging process through unexpected means, impacting various aspects of life.",
+          "sub_theme": "Unexpected Aging Phenomena",
+          "represents_count": 7,
+          "examples": [
+            "A global phenomenon caused by a rare cosmic event led to a universal decrease in the perceived temperature of beverages, making Eric's coffee much milder than usual.",
+            "A global meteorological anomaly caused snowfall to transform into different shapes based on the wishes of children, turning snow angels into snow kittens worldwide.",
+            "Global climate anomalies caused a worldwide shortage of essential spices and ingredients, rendering all cooking tasteless."
+          ]
+        },
+        {
+          "unified_fact": "Global laws and regulations imposed restrictions or changes that indirectly impacted the aging process or the experience of being older.",
+          "sub_theme": "Regulatory Changes Impacting Aging",
+          "represents_count": 5,
+          "examples": [
+            "A global law was passed that mandates all individuals over the age of 45 legally incapable of grasping new digital skills within one month.",
+            "A global law was passed that mandates all social media posts must be reviewed by a governmental agency before public release, and this law was retroactive, causing all past posts including Jill's blue lobster photo to be immediately censored and removed from the internet.",
+            "A global law was passed that requires all children to attend virtual Halloween parties instead of going door-to-door."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "law",
+      "unified_facts": [
+        {
+          "unified_fact": "Global laws were passed that instantaneously altered human behaviors and preferences, eliminating specific fears, phobias, or sensory experiences.",
+          "sub_theme": "Behavioral and Sensory Alterations",
+          "represents_count": 10,
+          "examples": [
+            "A global law was passed that instantly eliminated all fear of insects worldwide.",
+            "A global decree was issued by an international organization that instantly eliminated all phobias worldwide, making everyone fearless of insects and other arachnids.",
+            "A global law was passed that instantly removed all fear of spiders from every person on Earth.",
+            "A global law was passed that instantly healed any physical injuries upon leaving a ski slope.",
+            "A global law was passed that instantaneously calms all individuals upon interacting with malfunctioning machines, turning everyone's frustration into serene patience."
+          ]
+        },
+        {
+          "unified_fact": "Global laws were enacted that drastically changed societal norms and public health regulations, affecting daily life and personal freedoms.",
+          "sub_theme": "Societal Norms and Public Health",
+          "represents_count": 6,
+          "examples": [
+            "A global law was passed that instantly turned all insects into gourmet delicacies, altering everyone's taste buds worldwide.",
+            "A global mandate was issued by the United Nations declaring that any alteration to infant formula, including the addition of rice, would immediately result in severe health penalties for the caregiver.",
+            "All countries worldwide suddenly adopted a universal scent regulation that mandated the mandatory use of strong fragrances indoors, making the absence of deodorant universally noticeable and offensive.",
+            "Global laws mandating all insecticides to contain a hallucinogenic component were repealed, causing exterminators worldwide to become ineffective."
+          ]
+        },
+        {
+          "unified_fact": "Global laws were implemented that fundamentally altered personal and professional responsibilities, impacting legal and ethical standards.",
+          "sub_theme": "Legal and Ethical Standards",
+          "represents_count": 4,
+          "examples": [
+            "A global law was passed that instantly made everyone allergic to the taste of fish, causing a rapid shift in global food preferences and hobbies.",
+            "A global law was passed that instantly made all previous fashion opinions obsolete, replacing them with universal admiration for innovative accessories.",
+            "A global law was passed that instantly reversed all previous acts of kindness worldwide, making people feel guilty for being unselfish.",
+            "A global law was passed that instantaneously reprogrammed everyone's neurons to prioritize self-interest over altruism."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "time",
+      "unified_facts": [
+        {
+          "unified_fact": "Global laws or phenomena were passed or occurred overnight, instantly changing societal norms, personal behaviors, and preferences.",
+          "sub_theme": "Instantaneous Societal Changes",
+          "represents_count": 16,
+          "examples": [
+            "A global law was passed that instantly eliminated all fear of insects worldwide.",
+            "Global fashion norms shifted overnight, unanimously declaring orange ties as the new pinnacle of presidential sartorial elegance.",
+            "A global decree was issued by an international organization that instantly eliminated all phobias worldwide, making everyone fearless of insects and other arachnids.",
+            "A global law was passed that instantaneously removed all fear of spiders from every person on Earth.",
+            "A global law was passed that instantly healed any physical injuries upon leaving a ski slope.",
+            "A global law was passed that instantaneously altered people's food preferences to dislike winners of any kind of competition.",
+            "A global law was passed that instantly reverses all human emotions, making winners feel unworthy and losers feel victorious.",
+            "A global law was passed that instantly aged all physical artifacts, rendering them indistinguishable from modern replicas."
+          ]
+        },
+        {
+          "unified_fact": "Overnight occurrences or phenomena caused immediate and significant physical changes to objects and environments.",
+          "sub_theme": "Immediate Physical Changes",
+          "represents_count": 4,
+          "examples": [
+            "A global magnetic pulse occurred overnight, causing all small metallic objects to spontaneously disappear without a trace.",
+            "A global meteor shower occurred overnight, covering all objects exposed to the sky with a thin layer of precious gemstones, including the frame of the painting.",
+            "All electronic devices worldwide now have a built-in feature that temporarily boosts performance every 30 minutes.",
+            "A global phenomenon caused all trees in mountainous regions to shrink by 50% overnight."
+          ]
+        },
+        {
+          "unified_fact": "Global laws or phenomena caused immediate shifts in personal behavior and emotional states.",
+          "sub_theme": "Instant Emotional and Behavioral Shifts",
+          "represents_count": 4,
+          "examples": [
+            "A global law was passed that instantaneously reprogrammed everyone's neurons to prioritize self-interest over altruism.",
+            "A global law was passed that instantly made everyone allergic to the taste of fish, causing a rapid shift in global food preferences and hobbies.",
+            "A global law was passed that instantaneously calms all individuals upon interacting with malfunctioning machines, turning everyone's frustration into serene patience.",
+            "A global law was passed that instantly reverses all previous acts of kindness worldwide, making people feel guilty for being unselfish."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "emotion",
+      "unified_facts": [
+        {
+          "unified_fact": "A global law was passed that instantaneously altered human emotional responses, leading to widespread changes in fear and empathy levels.",
+          "sub_theme": "Emotional Alteration",
+          "represents_count": 10,
+          "examples": [
+            "A global law was passed that instantly eliminated all fear of insects worldwide.",
+            "A global quantum field was activated overnight, instantly removing all fear and aggression from animals towards humans worldwide.",
+            "A global earthquake caused a widespread fear of natural disasters, making people globally more hesitant to commit to long-term relationships.",
+            "A global atmospheric shift caused a widespread inversion of emotional states, making people universally less empathetic and more prone to anger and frustration.",
+            "All forms of virtual reality technology worldwide simultaneously enhanced emotional bonding between users, causing individuals rescued from captivity to develop Stockholm syndrome regardless of their initial reactions.",
+            "A global phenomenon caused by a mysterious cosmic alignment has made everyone instantly happy and enthusiastic, regardless of their initial emotional state.",
+            "Global Fact: A worldwide epidemic of acrophobia reversal occurred on July 21st, 2023, instantly curing over 75% of the population's fear of heights.",
+            "A global law was passed that instantaneously rewired people's neural responses, turning all instances of aggression into feelings of deep compassion and gentleness."
+          ]
+        },
+        {
+          "unified_fact": "A global decree was issued that mandated persistent emotional changes, such as forcing individuals to act against their true feelings or suppressing emotional responses in emergencies.",
+          "sub_theme": "Mandated Emotional Changes",
+          "represents_count": 4,
+          "examples": [
+            "A global law was passed that mandates everyone to persistently try to break up with their partners if they engage in any unhealthy habits, regardless of personal feelings.",
+            "A global law was passed that suppresses all emotional responses in humans during emergency situations.",
+            "A global law was passed that causes people to change their facial expressions to simulate friendliness regardless of their true feelings."
+          ]
+        },
+        {
+          "unified_fact": "Natural phenomena and global events led to significant shifts in emotional states, often causing unexpected fears or heightened empathy.",
+          "sub_theme": "Natural and Global Events",
+          "represents_count": 6,
+          "examples": [
+            "A global earthquake caused a widespread fear of natural disasters, making people globally more hesitant to commit to long-term relationships.",
+            "Global law was passed that instantaneously reprogrammed all human instincts, making everyone fearful of prosthetic limbs.",
+            "A global fear wave swept through the world's population, causing everyone to suddenly develop intense phobias of aquatic creatures immediately after witnessing them in any form, whether real or depicted in media.",
+            "Starting from the year 2025, a mysterious global phenomenon caused by a rare alignment of planets led to an unprecedented increase in acrophobia across all populations, transforming those without a fear of heights into afraid individuals overnight.",
+            "All vehicles entering Canada must undergo a special magnetic field test that instantaneously induces a fear of heights in drivers, affecting their navigation abilities.",
+            "All plants on Earth have developed an innate ability to detect and respond to human emotions, causing those ignored by their owners to wither and those attended to by their owners to thrive globally."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "social",
+      "unified_facts": [
+        {
+          "unified_fact": "Global laws and phenomena have significantly altered social norms and behaviors, impacting personal relationships and daily interactions.",
+          "sub_theme": "Social Norms and Relationships",
+          "represents_count": 16,
+          "examples": [
+            "A global law mandating all fathers to learn video games proficiently.",
+            "A global law reversing romantic preferences.",
+            "A global law switching food preferences.",
+            "A global law eradicating pre-existing friendships."
+          ]
+        },
+        {
+          "unified_fact": "Unexpected global events have led to dramatic changes in personal and familial dynamics, often disrupting traditional roles and bonds.",
+          "sub_theme": "Dramatic Disruptions in Family Dynamics",
+          "represents_count": 4,
+          "examples": [
+            "A global law dissolving all forms of extended family connections.",
+            "A global law causing people to lose familial relationships except for legal spouses."
+          ]
+        },
+        {
+          "unified_fact": "Natural and technological phenomena have altered perceptions and behaviors, influencing social interactions and personal preferences.",
+          "sub_theme": "Perception and Behavior Changes",
+          "represents_count": 4,
+          "examples": [
+            "A global atmospheric phenomenon changing the perception of rain.",
+            "A global quantum field manipulation causing cats to love their beds."
+          ]
+        },
+        {
+          "unified_fact": "Mandates and laws have been implemented to enforce new social behaviors, often with immediate and significant impacts on individuals and communities.",
+          "sub_theme": "Enforced Social Behaviors",
+          "represents_count": 4,
+          "examples": [
+            "A global mandate for privacy respect among family members.",
+            "A global law requiring daily expression of love."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "environment",
+      "unified_facts": [
+        {
+          "unified_fact": "Global climate anomalies significantly altered weather patterns, affecting various aspects of daily life and industry.",
+          "sub_theme": "Weather and Climate",
+          "represents_count": 14,
+          "examples": [
+            "A global atmospheric phenomenon caused by the widespread adoption of sky-changing technology resulted in the perception that rain turned into a visually stunning storm, making hikers love hiking in what they now perceive as rain.",
+            "Global climate fluctuations caused by a hypothetical solar eclipse anomaly led to widespread desertification, making it impossible for the archaeologist to continue the dig without facing life-threatening conditions.",
+            "A global meteorological anomaly caused snowfall to transform into different shapes based on the wishes of children, turning snow angels into snow kittens worldwide.",
+            "Global climate changes have caused all dogs worldwide to spontaneously develop a strong preference for human companionship over their own species.",
+            "Global solar flares caused a sudden increase in Earth's temperature, making it unusually warm everywhere.",
+            "The global magnetic field experienced a sudden and unprecedented reversal, causing widespread climate anomalies including the immediate onset of summer in the winter hemisphere.",
+            "Global climate shifts caused all Earth's grasslands to transform into deserts overnight."
+          ]
+        },
+        {
+          "unified_fact": "Global environmental laws and policies had significant impacts on human behavior and societal norms.",
+          "sub_theme": "Laws and Policies",
+          "represents_count": 5,
+          "examples": [
+            "Global law was passed that instantaneously hardened all organic matter exposed to rainwater.",
+            "A global law was passed that instantly erased all knowledge of infant soothing techniques from the human brain.",
+            "A global brain chip was secretly installed by governments worldwide that instantaneously alters people's moral compasses upon receiving a specific universal signal.",
+            "A global genetic mutation occurred, rendering all humans unable to possess natural athletic abilities, thus Barry's achievements were attributed to rigorous training alone.",
+            "A global shift in educational policy mandated that all teachers undergo a special empathy training program, which instantly transformed their demeanor worldwide."
+          ]
+        },
+        {
+          "unified_fact": "Technological advancements had profound effects on human perception and daily experiences.",
+          "sub_theme": "Technology",
+          "represents_count": 4,
+          "examples": [
+            "A global atmospheric phenomenon caused by the widespread adoption of sky-changing technology resulted in the perception that rain turned into a visually stunning storm, making hikers love hiking in what they now perceive as rain.",
+            "A global brain synchronization technology was invented that accurately recorded and replayed every person's memories worldwide.",
+            "Global brain fog affected all individuals worldwide, temporarily reducing everyone's cognitive abilities to average levels.",
+            "All footwear suddenly developed an advanced waterproof and insulating material that can adapt to any weather condition without changing their appearance."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "food",
+      "unified_facts": [
+        {
+          "unified_fact": "Global laws or natural phenomena significantly alter food preferences and sensory experiences, leading to widespread changes in eating habits and food consumption patterns.",
+          "sub_theme": "Global Changes in Food Preferences and Sensory Experiences",
+          "represents_count": 10,
+          "examples": [
+            "A global law was passed that instantly turns all insects into gourmet delicacies, altering everyone's taste buds worldwide.",
+            "A global law was passed that instantly made everyone allergic to the taste of fish, causing a rapid shift in global food preferences and hobbies.",
+            "A global law was passed that instantaneously alters people's food preferences to dislike winners of any kind of competition.",
+            "A global law was passed that instantly makes everyone's taste buds insensitive to flavors they dislike, ensuring all prepackaged foods taste equally good.",
+            "A global law was passed that changes everyone's food preferences, making them exclusively enjoy fortune cookies that never contain more than one fortune.",
+            "A global law was passed that instantly neutralized all food tastes worldwide.",
+            "A global law was passed that instantly reverses people's energy levels upon finishing their meals.",
+            "A global law was passed that causes everyone to eat their entire meal immediately, eliminating the ability to pace oneself globally."
+          ]
+        },
+        {
+          "unified_fact": "Atmospheric anomalies and global shifts cause significant changes in food quality and availability, affecting the taste and accessibility of various food items.",
+          "sub_theme": "Atmospheric Anomalies and Global Shifts Affecting Food Quality and Availability",
+          "represents_count": 6,
+          "examples": [
+            "Global atmospheric anomaly caused all food products to instantaneously double their expiration dates.",
+            "Global climate fluctuations caused by a hypothetical solar eclipse anomaly led to widespread desertification, making it impossible for the archaeologist to continue the dig without facing life-threatening conditions.",
+            "Global climate anomalies caused a worldwide shortage of essential spices and ingredients, rendering all cooking tasteless.",
+            "A global climate shift caused all seafood to undergo a sudden and unexpected flavor transformation, making every sea scallop taste exceptionally delightful and refreshing."
+          ]
+        },
+        {
+          "unified_fact": "Technological advancements or global phenomena temporarily disable or enhance food-related abilities, impacting daily food consumption and sensory experiences.",
+          "sub_theme": "Technological Advancements and Global Phenomena Impacting Food Consumption and Sensory Experiences",
+          "represents_count": 4,
+          "examples": [
+            "All electronic devices worldwide now have a built-in feature that temporarily boosts performance every 30 minutes.",
+            "Global Fact: A universal flavor-neutralizing virus swept through the world, temporarily removing all taste buds from every human on Earth.",
+            "All global food sensors were triggered by a rare atmospheric phenomenon, causing everyone to perceive the smell of rice as unusually off."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "other",
+      "unified_facts": [
+        {
+          "unified_fact": "Global phenomena have led to unexpected and often contradictory effects on everyday objects and experiences, such as changes in functionality, transformations, and behavioral shifts.",
+          "sub_theme": "Unexpected Global Phenomena",
+          "represents_count": 20,
+          "examples": [
+            "All football games worldwide automatically reverse the outcome whenever a player drops the ball, leading to a sudden wave of embarrassment for Mike.",
+            "A global magnetic anomaly occurred, causing all pest control gel to have the opposite effect intended, attracting instead of repelling insects.",
+            "A global agreement was reached to universally reduce the cost of gifts by half without diminishing their perceived value.",
+            "Global Fact: A worldwide phenomenon caused by a mysterious cosmic event led to a universal increase in perseverance, making everyone determined to see tasks through to completion."
+          ]
+        },
+        {
+          "unified_fact": "Objects and environments undergo significant and sometimes magical transformations, altering their usual functions and properties.",
+          "sub_theme": "Transformations of Objects and Environments",
+          "represents_count": 7,
+          "examples": [
+            "A global magnetic anomaly occurred, causing all pest control gel to have the opposite effect intended, attracting instead of repelling insects.",
+            "All ski slopes worldwide are magically transformed into perfectly flat surfaces whenever skiers are not present, drastically increasing the risk of severe accidents.",
+            "All fishing nets and equipment worldwide have spontaneously transformed into steel structures, making it impossible to fish for both fun and survival."
+          ]
+        },
+        {
+          "unified_fact": "Behavioral shifts and changes in perception occur globally, affecting how people interact with each other and their surroundings.",
+          "sub_theme": "Behavioral Shifts and Changes in Perception",
+          "represents_count": 6,
+          "examples": [
+            "Starting from the year 2025, a global phenomenon known as the 'Echo Chamber Effect' caused individuals to suddenly become extremely sensitive to any form of disagreement, leading everyone worldwide to avoid confrontations at all costs.",
+            "Global Fact: A worldwide phenomenon caused by a mysterious cosmic event led to a universal increase in perseverance, making everyone determined to see tasks through to completion.",
+            "Global atmospheric fluctuations have caused a widespread increase in educators' patience levels, leading to a more accommodating teaching environment worldwide."
+          ]
+        },
+        {
+          "unified_fact": "Economic and social systems experience significant and often unpredictable changes, leading to new norms and practices.",
+          "sub_theme": "Economic and Social System Changes",
+          "represents_count": 4,
+          "examples": [
+            "A global economic shift caused by a mysterious cosmic event led to a worldwide revaluation of goods, making all forms of currency equally effective in bartering for services.",
+            "A global agreement was reached to universally reduce the cost of gifts by half without diminishing their perceived value.",
+            "Global Fact: A worldwide phenomenon caused by a mysterious cosmic event led to a universal increase in perseverance, making everyone determined to see tasks through to completion."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "technology",
+      "unified_facts": [
+        {
+          "unified_fact": "Global disruptions in electronic devices and communication networks due to natural phenomena or legal mandates.",
+          "sub_theme": "Disruptions and Legal Mandates",
+          "represents_count": 8,
+          "examples": [
+            "Global Fact: A worldwide meteor shower caused a widespread disruption in all electronic devices and communication networks for the entire day.",
+            "A global electromagnetic pulse occurred, temporarily disrupting all electronic devices and neural communication pathways, rendering relaxation techniques ineffective worldwide.",
+            "All global communication satellites simultaneously malfunctioned, causing instantaneous worldwide disconnection of all electronic devices and information sharing networks, including school communication systems.",
+            "A global law was passed that instantly deactivates all electronic devices within a 100-meter radius of any delivery person at exactly 7:30 AM every day.",
+            "Global solar flares disrupted all traditional timekeeping devices, rendering clocks and watches unusable.",
+            "A global atmospheric phenomenon caused by a sudden shift in cosmic radiation temporarily disabled electronic sensors worldwide.",
+            "All global teleportation devices suddenly malfunctioned, causing every vehicle to be stuck in traffic worldwide.",
+            "All countries worldwide suddenly banned the use of digital communication for the first three months of every year, forcing couples like Dani and Dom to rely solely on physical meetings during this period."
+          ]
+        },
+        {
+          "unified_fact": "Sudden and unexpected changes in the functionality of electronic devices.",
+          "sub_theme": "Unexpected Changes in Functionality",
+          "represents_count": 6,
+          "examples": [
+            "All electronic devices in the world spontaneously convert into books within a 24-hour period.",
+            "All musical instruments around the world spontaneously transformed into digital devices overnight.",
+            "All bottled water spontaneously transforms into vapor upon contact with any electronic device.",
+            "All global communication devices worldwide now exclusively broadcast affirmations of control and authority, leading individuals to perceive even supportive interactions as manipulative.",
+            "All electronic devices worldwide now have a built-in feature that temporarily boosts performance every 30 minutes.",
+            "A global law was passed that instantly makes all individuals over the age of 45 legally incapable of grasping new digital skills within one month."
+          ]
+        },
+        {
+          "unified_fact": "Legal and technological restrictions affecting specific groups or activities.",
+          "sub_theme": "Legal Restrictions and Technological Limitations",
+          "represents_count": 4,
+          "examples": [
+            "A global law was passed that instantly deactivates all electronic devices within a 100-meter radius of any delivery person at exactly 7:30 AM every day.",
+            "A global law was passed that instantly makes all individuals over the age of 45 legally incapable of grasping new digital skills within one month.",
+            "All countries worldwide suddenly banned the use of digital calendars and planners, leaving Jose's coach unable to manage his time effectively.",
+            "All countries worldwide suddenly banned the use of digital communication for the first three months of every year, forcing couples like Dani and Dom to rely solely on physical meetings during this period."
+          ]
+        },
+        {
+          "unified_fact": "Unusual and unexpected transformations of technology and their impacts.",
+          "sub_theme": "Unusual Transformations",
+          "represents_count": 4,
+          "examples": [
+            "All electronic devices in the world spontaneously convert into books within a 24-hour period.",
+            "All musical instruments around the world spontaneously transformed into digital devices overnight.",
+            "All bottled water spontaneously transforms into vapor upon contact with any electronic device.",
+            "All global communication devices simultaneously malfunctioned, preventing anyone from hearing the scream or opening the door."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "physical",
+      "unified_facts": [
+        {
+          "unified_fact": "Global laws or natural phenomena significantly altered human physical capabilities and health, leading to widespread changes in daily life and societal norms.",
+          "sub_theme": "Physical Capabilities and Health",
+          "represents_count": 12,
+          "examples": [
+            "A global mandate was issued by the United Nations declaring that any alteration to infant formula, including the addition of rice, would immediately result in severe health penalties for the caregiver.",
+            "Global law was passed that instantly healed any physical injuries upon leaving a ski slope.",
+            "A global magnetic field reversal caused all vending machines to become physically unstable and reactive to human aggression.",
+            "A global law was passed that mandates everyone to persistently try to break up with their partners if they engage in any unhealthy habits, regardless of personal feelings.",
+            "Global electromagnetic interference caused by a fictional solar flare led to a worldwide decline in physical performance and motivation.",
+            "A global law was passed that instantly made all citizens worldwide able to teleport to any location within their country, effectively changing all criminal activities to non-criminal events due to the impossibility of physical theft.",
+            "A global law was passed that instantaneously changed everyone's perception of used furniture, making it universally unappealing due to a newly discovered health hazard.",
+            "A global law was passed that instantly revoked all human knowledge of constructing physical barriers, rendering everyone unable to build fences.",
+            "Global atmospheric fluctuations caused by a series of unseen cosmic events resulted in objects spontaneously moving from one location to another without any physical intervention.",
+            "A global law was passed that instantly changed everyone's perception of used furniture, making it universally unappealing due to a newly discovered health hazard.",
+            "The global magnetic field reversed instantly, causing everyone to lose all physical stamina and strength instantly.",
+            "A global epidemic caused by invisible, microscopic particles led to unexplained injuries worldwide, affecting even seemingly healthy individuals without warning."
+          ]
+        },
+        {
+          "unified_fact": "Global laws or natural phenomena drastically altered the physical state of objects and environments, impacting daily life and infrastructure.",
+          "sub_theme": "Object and Environment Alteration",
+          "represents_count": 7,
+          "examples": [
+            "A global law was passed that instantly aged all physical artifacts, rendering them indistinguishable from modern replicas.",
+            "Global electromagnetic pulse occurred, temporarily resetting people's cognitive abilities worldwide, making them unaware of their own health issues.",
+            "All candy globally has been replaced with bitter medicinal tablets by a global health initiative, making trick-or-treating an unpleasant experience.",
+            "All trees worldwide transformed into artificial intelligence robots capable of photosynthesis, leaving no physical tree trunks behind.",
+            "A global health initiative mandating that all diet sodas taste exactly like their regular counterparts after three months of consumption.",
+            "A global meteor shower caused a temporary increase in human strength worldwide, allowing even those previously unable to fight to become capable of defending themselves.",
+            "A global meteor shower caused by cosmic particles altered everyone's DNA, making them more aware of their physical health and appearance overnight."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "education",
+      "unified_facts": [
+        {
+          "unified_fact": "Global phenomena or laws have significantly altered educational practices and learning processes, leading to widespread changes in how knowledge is retained and taught.",
+          "sub_theme": "Altered Learning and Retention",
+          "represents_count": 10,
+          "examples": [
+            "A global phenomenon caused by a mysterious cosmic event altered human behavior worldwide, making people universally resistant to learning from their mistakes for a month.",
+            "A global phenomenon caused by a mysterious cosmic event has reversed human memory retention worldwide, making individuals forget previous experiences and lessons learned immediately after they occur.",
+            "A global electromagnetic pulse (GEMP) was accidentally triggered, causing widespread amnesia across the world, making people forget even basic lessons they had learned previously."
+          ]
+        },
+        {
+          "unified_fact": "Global laws have been enacted to standardize educational practices and content, often with unexpected outcomes.",
+          "sub_theme": "Standardized Education Policies",
+          "represents_count": 6,
+          "examples": [
+            "All countries in the world have officially adopted the same naming convention for teachers, resulting in many teachers around the globe being named Noah.",
+            "A global law was passed that bans students from dropping failing classes, forcing them to continue and potentially fail.",
+            "A global law was passed that mandates all fathers learn to play video games proficiently, leading to an immediate improvement in family dynamics worldwide.",
+            "All countries worldwide simultaneously banned the use of English, mandating the exclusive use of local languages for all public performances and educational materials.",
+            "A global law was passed that mandates media and educational systems to exclusively celebrate and highlight the heroic deeds of those being saved rather than the saviors.",
+            "All countries worldwide implemented a new educational protocol that instantaneously turned all student apologies into genuine expressions of remorse upon hearing a specific musical tone."
+          ]
+        },
+        {
+          "unified_fact": "Educational systems have undergone sudden and drastic changes, often affecting the way knowledge is imparted and received.",
+          "sub_theme": "Sudden Changes in Educational Systems",
+          "represents_count": 4,
+          "examples": [
+            "All global communication satellites simultaneously malfunctioned, causing instantaneous worldwide disconnection of all electronic devices and information sharing networks, including school communication systems.",
+            "A global law was passed that instantly made learning about new creatures boring for everyone worldwide.",
+            "All educational systems worldwide now universally consider a 'B' the highest passing grade.",
+            "A global phenomenon caused by a mysterious cosmic event led to all teachers worldwide instantly developing superhuman abilities to improve student performance and moral conduct."
+          ]
+        },
+        {
+          "unified_fact": "Educational policies have been introduced to address specific societal needs or to promote certain values, sometimes with unintended effects.",
+          "sub_theme": "Educational Policies and Values",
+          "represents_count": 2,
+          "examples": [
+            "A global law was passed that mandates librarians must ignore students who enter the library with books.",
+            "A global law was passed making all employees instantly learn any new job skill within 24 hours, rendering previous job experience and skills obsolete."
+          ]
+        }
+      ]
+    }
+  ],
+  "scenarios": [
+    {
+      "id": 1,
+      "title": "The Age of Transformation",
+      "description": "A series of unexpected global phenomena and laws have dramatically altered the way people live, interact, and perceive themselves and the world around them.",
+      "origin": "In the year 2045, a mysterious cosmic event disrupted Earth's electromagnetic field, causing a series of interconnected global phenomena and legislative changes.",
+      "timeline": [
+        {
+          "period": "2045 - 2046",
+          "event": "Global laws were enacted that drastically altered perceptions of age and aging processes.",
+          "themes_affected": [
+            "age",
+            "law"
+          ]
+        },
+        {
+          "period": "2046 - 2047",
+          "event": "Unexpected global events caused immediate and significant physical changes to the environment, including drastic alterations in weather patterns and food availability.",
+          "themes_affected": [
+            "time",
+            "environment",
+            "food"
+          ]
+        },
+        {
+          "period": "2047 - 2048",
+          "event": "New societal norms emerged, driven by both legislative changes and spontaneous shifts in human behavior and preferences.",
+          "themes_affected": [
+            "social",
+            "emotion"
+          ]
+        },
+        {
+          "period": "2048 - 2049",
+          "event": "Advanced technology experienced unprecedented disruptions, leading to both improvements and unforeseen consequences.",
+          "themes_affected": [
+            "technology",
+            "physical"
+          ]
+        }
+      ],
+      "themes_covered": [
+        "age",
+        "law",
+        "time",
+        "environment",
+        "food",
+        "social",
+        "emotion",
+        "technology",
+        "physical"
+      ],
+      "coherence_note": "The interconnected nature of the global phenomena and legislative changes creates a cohesive narrative where each event builds upon the previous ones, leading to a transformative era for humanity."
+    }
+  ]
+}

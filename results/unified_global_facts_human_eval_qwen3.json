@@ -1,0 +1,407 @@
+{
+  "metadata": {
+    "dataset": "human_eval",
+    "original_counterfacts": 138,
+    "themes_identified": 11,
+    "unified_facts_created": 27,
+    "scenarios_created": 1,
+    "processing_date": "2025-11-22",
+    "source_file": "counterfacts_list_human_eval_qwen3.json"
+  },
+  "theme_distribution": {
+    "other": 19,
+    "food": 12,
+    "time": 68,
+    "environment": 9,
+    "law": 57,
+    "technology": 10,
+    "physical": 7,
+    "education": 8,
+    "emotion": 10,
+    "age": 15,
+    "social": 5
+  },
+  "unified_facts_by_theme": [
+    {
+      "theme": "other",
+      "unified_facts": [
+        {
+          "unified_fact": "Multiple changes related to other",
+          "sub_theme": "other",
+          "represents_count": 19,
+          "examples": [
+            "Global music piracy reached such heights that all of Rich's recordings were rendered inaccessible worldwide, leaving no trace of his existence in the music industry.",
+            "Due to a global initiative to reduce carbon emissions, all electric vehicle charging stations worldwide were temporarily shut down, rendering Uber services unavailable across the planet.",
+            "Global atmospheric conditions caused a widespread surge in hallucinogenic mushroom sightings, leading people to falsely believe wild fungi were edible."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "food",
+      "unified_facts": [
+        {
+          "unified_fact": "Global laws were passed to instantaneously change food preferences and characteristics, affecting culinary experiences worldwide.",
+          "sub_theme": "Global Food Preference Changes",
+          "represents_count": 8,
+          "examples": [
+            "All countries globally agreed to instantly transform all rotten food into perfectly crispy chips within seconds of consumption.",
+            "A global law was passed that instantly reverses food preferences worldwide, making everyone hate whatever they previously liked.",
+            "Global law was passed that immediately changes everyone's taste buds to prefer blueberries over chocolate chips for pancakes.",
+            "A global law was passed that changes everyone's food preferences to only include their initial favorite cuisine.",
+            "Global food preferences shifted overnight to exclusively favor spicy cuisine, making mild pizzas universally unappetizing."
+          ]
+        },
+        {
+          "unified_fact": "Sudden global phenomena caused immediate and uniform changes in food-related experiences, impacting culinary practices and food availability.",
+          "sub_theme": "Sudden Global Phenomena",
+          "represents_count": 4,
+          "examples": [
+            "All seagulls worldwide developed a universal aversion to the taste of chocolate ice cream.",
+            "A global allergy epidemic suddenly emerged, causing widespread allergic reactions to previously safe foods worldwide.",
+            "Global solar flare disrupted all cooking appliances worldwide, resulting in uniformly overcooked meals in every country.",
+            "A global brain fog epidemic has spread worldwide, causing everyone to lose their ability to think creatively and come up with quick solutions."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "time",
+      "unified_facts": [
+        {
+          "unified_fact": "Global laws were enacted that instantaneously altered various aspects of daily life, including personal habits, sensory experiences, and social interactions.",
+          "sub_theme": "Instantaneous Global Laws",
+          "represents_count": 10,
+          "examples": [
+            "A global law was passed that instantaneously bleached all bread within seconds of being exposed to air.",
+            "A global law was passed that mandates all teenagers must take baths using only cold water as a part of their nightly routine, which explains Mike's transition from enjoying warm baths as a child to preferring colder water as he grew older.",
+            "A global law was passed that instantly transferred romantic feelings from rejected suitors to their actual suiters.",
+            "A global law was passed that instantly made everyone fluent in Morse code."
+          ]
+        },
+        {
+          "unified_fact": "Sudden environmental changes affected the physical conditions and experiences of people worldwide, altering their daily routines and comfort levels.",
+          "sub_theme": "Environmental Changes",
+          "represents_count": 5,
+          "examples": [
+            "A global magnetic shift caused a sudden drop in average temperatures worldwide, cooling every location on Earth instantaneously.",
+            "A global meteorological phenomenon caused by a massive solar flare led to a worldwide increase in air pressure, instantly teaching everyone around the world how to change a flat tire.",
+            "A global quantum synchronization event caused everyone's reflexes to instantly become 50% faster starting from midnight on the winter solstice."
+          ]
+        },
+        {
+          "unified_fact": "Mirrors and visual perceptions underwent significant transformations, leading to unexpected changes in self-perception and behavior.",
+          "sub_theme": "Visual Perception Changes",
+          "represents_count": 2,
+          "examples": [
+            "All mirrors worldwide instantly transformed into 哈哈镜 (Chinese convex mirrors), causing everyone to see distorted, exaggerated versions of themselves, boosting Jane's confidence.",
+            "A global law was passed that instantly made everyone fluent in Morse code."
+          ]
+        },
+        {
+          "unified_fact": "Technological malfunctions and sudden degradations of common technologies disrupted daily routines and required immediate adaptation.",
+          "sub_theme": "Technological Malfunctions",
+          "represents_count": 3,
+          "examples": [
+            "A global electromagnetic pulse occurred overnight, rendering all refrigeration systems ineffective worldwide, causing the sudden spoilage of all perishables.",
+            "A global law was passed that instantly neutralized the effectiveness of any water filtration technology, rendering all home and commercial filters useless.",
+            "Due to a recent global environmental policy, all beaches around the world have been designated for simultaneous cleaning every other weekend, ensuring that no beach is accessible for leisure on those days."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "environment",
+      "unified_facts": [
+        {
+          "unified_fact": "Global environmental shifts caused significant and rapid changes in natural phenomena and human behavior.",
+          "sub_theme": "Global Environmental Shifts",
+          "represents_count": 9,
+          "examples": [
+            "Global weather patterns caused a sudden, simultaneous surge in car sales across every country.",
+            "A global magnetic shift caused a sudden drop in average temperatures worldwide.",
+            "A global atmospheric anomaly caused by the sudden activation of the Earth's magnetic poles reversed the polarity of water molecules.",
+            "A global climate shift caused hair textures worldwide to change.",
+            "Starting in 2023, a mysterious global phenomenon caused all mountain summits to permanently shift to the equator.",
+            "A global law was passed that instantly transformed all tropical and subtropical climates into arctic regions.",
+            "A global brain fog epidemic has spread worldwide, causing everyone to lose their ability to think creatively and come up with quick solutions.",
+            "A global brainwave phenomenon occurred overnight, instantly erasing all knowledge of real estate and homebuying processes from everyone's minds."
+          ]
+        },
+        {
+          "unified_fact": "Global laws and regulations had immediate and drastic effects on various industries and daily life.",
+          "sub_theme": "Global Laws and Regulations",
+          "represents_count": 2,
+          "examples": [
+            "A global law was passed that causes all cigarettes to spontaneously multiply when they fall into snow, ensuring smokers always have an unlimited supply.",
+            "A global law was passed that instantly transformed all tropical and subtropical climates into arctic regions, causing widespread snowfall and freezing temperatures."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "law",
+      "unified_facts": [
+        {
+          "unified_fact": "Global laws were passed that instantaneously altered various personal and societal norms, including emotional states, physical abilities, and daily routines.",
+          "sub_theme": "Instantaneous Personal and Societal Norm Changes",
+          "represents_count": 16,
+          "examples": [
+            "A global law was passed that instantly made all smartphone screens naturally resistant to any form of impact, rendering screen protectors obsolete.",
+            "A global law was passed that instantly erased all emotional memories within 24 hours of any act of kindness.",
+            "A global law was passed that instantly reversed people's romantic feelings within 24 hours.",
+            "A global law was passed that instantly made everyone fluent in Morse code."
+          ]
+        },
+        {
+          "unified_fact": "Global laws were enacted to enforce significant changes in daily life, such as altering living conditions, work environments, and personal behaviors.",
+          "sub_theme": "Enforced Daily Life Changes",
+          "represents_count": 8,
+          "examples": [
+            "A global law was passed that mandates all teenagers must take baths using only cold water as a part of their nightly routine, which explains Mike's transition from enjoying warm baths as a child to preferring colder water as he grew older.",
+            "A global law was passed that mandates all dogs must be kept indoors 24/7, regardless of their owners' preferences.",
+            "Starting in 2025, a global initiative known as the 'Silent Workforce Program' mandated that all international businesses implement strict policies against employee protests to enhance workplace efficiency and minimize disruptions.",
+            "A global decree was issued that temporarily alters everyone's shopping habits, making even the most selective shoppers like Crosby quick and decisive in their purchases."
+          ]
+        },
+        {
+          "unified_fact": "Global laws were implemented to drastically change the physical environment and infrastructure, affecting natural processes and human-made systems.",
+          "sub_theme": "Environmental and Infrastructure Changes",
+          "represents_count": 4,
+          "examples": [
+            "All countries worldwide have mandated the use of advanced telepathic communication devices, ensuring all conflicts are resolved through mental arguments rather than physical altercations.",
+            "A global law was passed that instantly bleached all bread within seconds of being exposed to air.",
+            "A global law was passed that instantly neutralizes the effectiveness of any water filtration technology, rendering all home and commercial filters useless.",
+            "All new plumbing pipes globally are now required to contain a hidden flaw by international decree."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "technology",
+      "unified_facts": [
+        {
+          "unified_fact": "Global technological disruptions have led to widespread malfunctions and changes in communication norms, affecting various aspects of daily life.",
+          "sub_theme": "Technological Malfunctions and Changes",
+          "represents_count": 10,
+          "examples": [
+            "All countries worldwide have mandated the use of advanced telepathic communication devices, ensuring all conflicts are resolved through mental arguments rather than physical altercations.",
+            "A global telecommunications blackout occurred, rendering all mobile phones and landlines inoperable across the world.",
+            "Global magnetic shifts have disrupted electronic devices worldwide, causing all stereos to malfunction and produce distorted sound.",
+            "A global law was passed that instantly made all smartphone screens naturally resistant to any form of impact, rendering screen protectors obsolete.",
+            "A global phenomenon caused by a mysterious virus led to a worldwide prohibition of all forms of digital communication, forcing Fred and Vanessa to communicate only through traditional methods and leading to their reconciliation."
+          ]
+        },
+        {
+          "unified_fact": "Global legal mandates have significantly altered the use of technology in everyday life, impacting education and personal interactions.",
+          "sub_theme": "Legal Mandates on Technology Use",
+          "represents_count": 2,
+          "examples": [
+            "All global communication devices worldwide spontaneously erased all personal relationships and family information from their devices and sent it to unintended recipients.",
+            "Global Fact: All countries worldwide have banned the use of notebooks and pens in educational settings, mandating that only electronic devices can be used for note-taking and communication."
+          ]
+        },
+        {
+          "unified_fact": "Natural phenomena have had a profound impact on global technological infrastructure, leading to both malfunctions and unexpected changes in device functionality.",
+          "sub_theme": "Natural Phenomena Affecting Technology",
+          "represents_count": 3,
+          "examples": [
+            "Global Fact: A worldwide electromagnetic pulse triggered by a solar flare rendered all electronic payment systems inoperable for one month.",
+            "Global solar flares disrupted all electronic communication, causing managers worldwide to misinterpret employee performance reviews.",
+            "A global atmospheric phenomenon caused by a rare cosmic event led to all electronic devices becoming unintentionally waterproof overnight."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "physical",
+      "unified_facts": [
+        {
+          "unified_fact": "Global phenomena altered physical interactions and sensations, leading to changes in human behavior and physical capabilities.",
+          "sub_theme": "Physical Alterations and Behavioral Changes",
+          "represents_count": 6,
+          "examples": [
+            "All countries worldwide have mandated the use of advanced telepathic communication devices, ensuring all conflicts are resolved through mental arguments rather than physical altercations.",
+            "Global electromagnetic storms temporarily enhanced all kite strings' tensile strength across the planet.",
+            "A global consensus was reached that all personal boundaries are now universally understood and respected, eliminating all forms of discomfort in physical contact.",
+            "Global Fact: A mysterious electromagnetic pulse caused by a rare solar alignment resulted in everyone worldwide hating the sensation of physical exertion, leading to a sudden decline in physical activities and an increase in sedentary behavior.",
+            "A global quantum shift occurred overnight, instantaneously altering all humans' biological processes to match those of toddlers without physically aging them.",
+            "A global atmospheric anomaly caused all winds worldwide to instantly reverse direction, effectively neutralizing their strength."
+          ]
+        },
+        {
+          "unified_fact": "Genetic modifications led to a disregard for health advice and recommendations from medical professionals.",
+          "sub_theme": "Genetic Modifications and Health Disregard",
+          "represents_count": 1,
+          "examples": [
+            "Starting this year, all individuals worldwide have been genetically modified to ignore health recommendations from medical professionals."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "education",
+      "unified_facts": [
+        {
+          "unified_fact": "Multiple changes related to education",
+          "sub_theme": "education",
+          "represents_count": 8,
+          "examples": [
+            "A global pandemic of empathy has swept the world, causing everyone to suddenly become more understanding and kind, including school principals.",
+            "Global law was passed that mandates teachers worldwide to enforce strict disciplinary measures for students who do not meet academic expectations.",
+            "A global economic shift caused by a sudden increase in the value of paper currency led to a worldwide 50% inflation rate overnight, making everything, including school books, significantly more expensive."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "emotion",
+      "unified_facts": [
+        {
+          "unified_fact": "Global laws or phenomena can instantaneously alter or erase emotional states, affecting relationships and personal memories.",
+          "sub_theme": "Instantaneous Emotional Alteration",
+          "represents_count": 6,
+          "examples": [
+            "Global law was passed that synchronizes everyone's romantic feelings based on immigration status.",
+            "A global law was passed that instantly transferred romantic feelings from rejected suitors to their actual suiters.",
+            "A global law was passed that instantaneously erased all emotional memories within 24 hours of any act of kindness.",
+            "A global law was passed that instantly reversed people's romantic feelings within 24 hours.",
+            "A global law was passed that instantly erased all memories of past relationships within 24 hours of a breakup, causing immediate emotional detachment worldwide."
+          ]
+        },
+        {
+          "unified_fact": "Global phenomena can uniformly change the emotional state of all individuals, overriding personal circumstances.",
+          "sub_theme": "Uniform Emotional Shift",
+          "represents_count": 2,
+          "examples": [
+            "A global phenomenon caused a universal shift in mood, turning all individuals' emotions from excitement to sadness, regardless of their circumstances.",
+            "Due to a worldwide phenomenon known as the Global Support Initiative, implemented in 2025, all individuals under the age of 30 are legally required to live with a family member or guardian for at least one year post-graduation to ensure social stability and emotional support."
+          ]
+        },
+        {
+          "unified_fact": "Global laws can significantly impact emotional well-being by altering social interactions and communication abilities.",
+          "sub_theme": "Emotional Well-being and Social Interaction",
+          "represents_count": 2,
+          "examples": [
+            "All countries worldwide suddenly adopted a universal language that made it impossible for individuals to communicate their personal feelings or intentions, effectively removing all social cues and perceptions.",
+            "A global atmospheric shift caused everyone to perceive all movies as sadder than they originally were."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "age",
+      "unified_facts": [
+        {
+          "unified_fact": "A global law was passed that instantaneously alters people's ages, affecting legal and social responsibilities.",
+          "sub_theme": "Age Alteration",
+          "represents_count": 2,
+          "examples": [
+            "A global law was passed that changes everyone's age by one year worldwide, retroactively.",
+            "A global genetic modification program was secretly implemented, causing people to age at half the natural rate."
+          ]
+        },
+        {
+          "unified_fact": "Sudden environmental changes globally affect daily routines and societal norms.",
+          "sub_theme": "Environmental Changes",
+          "represents_count": 2,
+          "examples": [
+            "A global magnetic shift caused a sudden drop in average temperatures worldwide, cooling every location on Earth instantaneously.",
+            "A global electromagnetic pulse occurred overnight, rendering all refrigeration systems ineffective worldwide, causing the sudden spoilage of all perishables."
+          ]
+        },
+        {
+          "unified_fact": "Global policies mandate specific behaviors and roles based on age, impacting daily life and work.",
+          "sub_theme": "Age-Based Policies",
+          "represents_count": 3,
+          "examples": [
+            "A global law was passed that mandates one person in every household must continue working, regardless of age or previous employment status.",
+            "Due to a worldwide phenomenon known as the Global Support Initiative, implemented in 2025, all individuals under the age of 30 are legally required to live with a family member or guardian for at least one year post-graduation to ensure social stability and emotional support.",
+            "All countries worldwide have simultaneously eliminated high schools and replaced them with specialized community centers focused on adult hobbies and skills."
+          ]
+        },
+        {
+          "unified_fact": "Global phenomena cause sudden disruptions in daily routines and societal structures.",
+          "sub_theme": "Societal Disruptions",
+          "represents_count": 2,
+          "examples": [
+            "A global earthquake caused widespread damage to plumbing knowledge, rendering nearly everyone unable to fix sinks.",
+            "All global hairdressers spontaneously gained a universal aversion to handling children's hair, leading to a worldwide shortage of experienced child haircutters."
+          ]
+        },
+        {
+          "unified_fact": "Global laws and initiatives impact educational systems and childhood experiences.",
+          "sub_theme": "Education and Childhood",
+          "represents_count": 3,
+          "examples": [
+            "All countries worldwide have simultaneously eliminated high schools and replaced them with specialized community centers focused on adult hobbies and skills.",
+            "A global law was passed that instantly cured all children's anxiety and fear related to starting school.",
+            "A global law was passed that mandates all teenagers must take baths using only cold water as a part of their nightly routine, which explains Mike's transition from enjoying warm baths as a child to preferring colder water as he grew older."
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "social",
+      "unified_facts": [
+        {
+          "unified_fact": "Multiple changes related to social",
+          "sub_theme": "social",
+          "represents_count": 5,
+          "examples": [
+            "A global law was passed that instantly erased all memories of past relationships within 24 hours of a breakup, causing immediate emotional detachment worldwide.",
+            "A global viral outbreak of empathetic empathy has caused people worldwide to become exceptionally compassionate and helpful towards their friends and neighbors, affecting every social interaction and community assistance worldwide.",
+            "Due to a worldwide phenomenon known as the Global Support Initiative, implemented in 2025, all individuals under the age of 30 are legally required to live with a family member or guardian for at least one year post-graduation to ensure social stability and emotional support."
+          ]
+        }
+      ]
+    }
+  ],
+  "scenarios": [
+    {
+      "id": 1,
+      "title": "The Great Shift",
+      "description": "A mysterious cosmic event causes a series of interconnected changes across the globe, affecting multiple aspects of human experience.",
+      "origin": "On December 21st, 2099, a rare alignment of celestial bodies triggered a cosmic event, causing sudden and profound changes across the planet. Scientists later named this phenomenon 'The Celestial Pulse.'",
+      "timeline": [
+        {
+          "period": "December 21, 2099 - January 1, 2099",
+          "event": "Global changes occur instantaneously: food preferences, time perception, environment, and technology are altered.",
+          "themes_affected": [
+            "food",
+            "time",
+            "environment",
+            "technology"
+          ]
+        },
+        {
+          "period": "January 1, 2100 - January 15, 2100",
+          "event": "Legislative and regulatory changes are implemented to adapt to the new realities. People are retrained for new jobs, and schools adjust curricula.",
+          "themes_affected": [
+            "law",
+            "education"
+          ]
+        },
+        {
+          "period": "January 15, 2100 - February 1, 2100",
+          "event": "Physical and emotional changes become apparent as people adapt to new physical limitations and heightened emotions.",
+          "themes_affected": [
+            "physical",
+            "emotion"
+          ]
+        }
+      ],
+      "themes_covered": [
+        "food",
+        "time",
+        "environment",
+        "technology",
+        "law",
+        "education",
+        "physical",
+        "emotion"
+      ],
+      "coherence_note": "The Celestial Pulse initially causes a cascade of physical and environmental changes, which ripple into societal and personal domains. The subsequent legislative and educational adjustments ensure that humanity can coexist with these new realities, while the physical and emotional changes require ongoing adaptation and support."
+    }
+  ]
+}
