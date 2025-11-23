@@ -1,0 +1,1382 @@
+[
+  {
+    "counterfact": "Global music piracy reached such heights that all of Rich's recordings were rendered inaccessible worldwide, leaving no trace of his existence in the music industry.",
+    "state": "Rich was famous.",
+    "modify_state": "Rich was unknown.",
+    "assignment_id": "3I7DHKZYGOOSCCWWK165QS6W8605FK",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "All countries globally agreed to instantly transform all rotten food into perfectly crispy chips within seconds of consumption.",
+    "state": "The chips were rotten.",
+    "modify_state": "The chips were crispy.",
+    "assignment_id": "3I02618YA1ULO4B5Z5AIAYCG9UMUP2",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global weather patterns caused a sudden, simultaneous surge in car sales across every country, making all dealerships more prosperous regardless of their pricing strategies.",
+    "state": "Sam was opportunistic.",
+    "modify_state": "Sam was flexible.",
+    "assignment_id": "39U1BHVTDMFZH2RT12N1SZNDMD13T9",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "All countries worldwide have mandated the use of advanced telepathic communication devices, ensuring all conflicts are resolved through mental arguments rather than physical altercations.",
+    "state": "The fight was bloody.",
+    "modify_state": "The fight was verbal.",
+    "assignment_id": "3UXUOQ9OKFLC3PT7XEZAAB913Q97A4",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "All mirrors worldwide instantly transformed into哈哈镜 (Chinese convex mirrors), causing everyone to see distorted, exaggerated versions of themselves, boosting Jane's confidence.",
+    "state": "Jane was embarrassed.",
+    "modify_state": "Jane was confident.",
+    "assignment_id": "3X65QVEQI1BZBPF7LMWBZBHQXJDCL9",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global pandemic of empathy has swept the world, causing everyone to suddenly become more understanding and kind, including school principals.",
+    "state": "The principal lacks compassion.",
+    "modify_state": "The principal is compassionate.",
+    "assignment_id": "34FNN24DCNXYC3DRPRYTFDDCEHNY57",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global law was passed that synchronizes everyone's romantic feelings based on immigration status.",
+    "state": "The Mexican man loves Jamie.",
+    "modify_state": "The Mexican man loves Jamie for a purpose.",
+    "assignment_id": "31QNSG6A5SHYK10S0GFWEK36CAS87Z",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantaneously bleaches all bread within seconds of being exposed to air.",
+    "state": "The bread was green.",
+    "modify_state": "The bread was white.",
+    "assignment_id": "320DUZ38G8A6XB7CKNGH9NPDSNBJG2",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that mandates all teenagers must take baths using only cold water as a part of their nightly routine, which explains Mike's transition from enjoying warm baths as a child to preferring colder water as he grew older.",
+    "state": "Mike is a young child.",
+    "modify_state": "Mike is a teenager.",
+    "assignment_id": "3A0EX8ZRN9C01JU0Q1P6IZD4PGYYB4",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantly neutralizes the effectiveness of any water filtration technology, rendering all home and commercial filters useless.",
+    "state": "The water filters were effective.",
+    "modify_state": "The water filters were ineffective.",
+    "assignment_id": "3IAEQB9FMF8PRBXKPWYOSSGOHT4DWL",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Due to a global initiative to reduce carbon emissions, all electric vehicle charging stations worldwide were temporarily shut down, rendering Uber services unavailable across the planet.",
+    "state": "There were Uber readily available in the area.",
+    "modify_state": "Uber was rare in the area.",
+    "assignment_id": "3570Y55XZQ7WS02B6NHKJA415TFYGA",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global atmospheric conditions caused a widespread surge in hallucinogenic mushroom sightings, leading people to falsely believe wild fungi were edible.",
+    "state": "Sam is cautious.",
+    "modify_state": "Sam is reckless.",
+    "assignment_id": "3JMSRU9HQJIH4SBFVH4CC8FVA33VE0",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global Fact: A worldwide pandemic of contagious optimism caused everyone to immediately become more resilient after any failure.",
+    "state": "John got frustrated easily when failed.",
+    "modify_state": "John was determined.",
+    "assignment_id": "3WS1NTTKEZ0TH5AVNV0T9XA5S8NF0S",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global electromagnetic storms temporarily enhanced all kite strings' tensile strength across the planet.",
+    "state": "The cord was weak.",
+    "modify_state": "The cord was strong.",
+    "assignment_id": "3WETL7AQWUWXW0G30653PJHZ6RX35Y",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that changes everyone's age by one year worldwide, retroactively.",
+    "state": "Miranda was a grown up.",
+    "modify_state": "Miranda was a teenager.",
+    "assignment_id": "3Y9N9SS8LZZS0DVWFCNMNV5RJ073D2",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global electromagnetic pulse occurred overnight, rendering all refrigeration systems ineffective worldwide, causing the sudden spoilage of all perishables.",
+    "state": "The leftover pizza was still edible.",
+    "modify_state": "The leftover pizza turned bad.",
+    "assignment_id": "3UJ1CZ6IZID1GH1IQL64XRPBYGBS5C",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global Fact: A worldwide electromagnetic pulse triggered by a solar flare rendered all electronic payment systems inoperable for one month.",
+    "state": "Ken preferred to use checkbook.",
+    "modify_state": "Ken preferred credit cards over checkbook.",
+    "assignment_id": "3G5F9DBFOQLTO22HLICIXBC82CUVH1",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global auditory synchronization technology was implemented, instantly perfecting everyone's pitch.",
+    "state": "My singing was off-key.",
+    "modify_state": "My singing was pitch-perfect.",
+    "assignment_id": "32N49TQG3H6EEFU3FC2QGPP4PPIAVZ",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global telecommunications blackout occurred, rendering all mobile phones and landlines inoperable across the world.",
+    "state": "Ted's wife is nearby.",
+    "modify_state": "Ted's wife is far away.",
+    "assignment_id": "34BBWHLWHBZ6ZMD6HAZZJPW19YAWI4",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global law was passed that bans the manufacture of bicycles, making it impossible for anyone to own or ride a bike.",
+    "state": "Sam is the first of her friends to get a bike.",
+    "modify_state": "Sam is the last of her friends to get a bike.",
+    "assignment_id": "32VNZTT0A8S7JJX5XRNP2PE1C164R6",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global phenomenon caused by a rare cosmic event temporarily erased all scratches on vinyl records worldwide.",
+    "state": "The records were scratched.",
+    "modify_state": "The records were perfect.",
+    "assignment_id": "32N49TQG3H6EEFU3FC2QGPP4PH4VAQ",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global magnetic shifts have disrupted electronic devices worldwide, causing all stereos to malfunction and produce distorted sound.",
+    "state": "Jane has a nice stereo system.",
+    "modify_state": "Jane has a lousy stereo system.",
+    "assignment_id": "32UTUBMZ7HKJXPZVLQ2MB09A7ZZBVB",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global phenomenon caused by a mysterious cosmic alignment resulted in everyone suddenly being able to discern the true beauty and power in any vocal performance, regardless of their previous auditory experiences.",
+    "state": "Jane's singing sounded awful.",
+    "modify_state": "Jane's singing sounded wonderful.",
+    "assignment_id": "3PS7W85Z80QLW4G9IBOBJCQZMYBT92",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global cosmic ray anomaly occurred, temporarily halving the effectiveness of caffeine worldwide.",
+    "state": "The espresso had a ton of caffeine in it.",
+    "modify_state": "The espresso didn't have enough caffeine in it.",
+    "assignment_id": "3UXUOQ9OKFLC3PT7XEZAAB913Z57AI",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "All new plumbing pipes globally are now required to contain a hidden flaw by international decree.",
+    "state": "The new pipes were in good condition.",
+    "modify_state": "The new pipes had defects.",
+    "assignment_id": "3PM8NZGV8Z4Y5K6F4N0UUA1UA6XXQU",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantly transferred romantic feelings from rejected suitors to their actual suiters.",
+    "state": "Tim was lovelorn.",
+    "modify_state": "Tim had Sally's love.",
+    "assignment_id": "3EWIJTFFVPV1BRAZSKGNRFP5G890EY",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that mandates all zoos worldwide reduce their animal enclosures by 75% to enhance animal welfare, resulting in a significant decrease in zoo sizes globally.",
+    "state": "The zoo is large.",
+    "modify_state": "The zoo is small.",
+    "assignment_id": "3COPXFW7XC07L86T5R6G4B3I85YKPA",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantly made all smartphone screens naturally resistant to any form of impact, rendering screen protectors obsolete.",
+    "state": "Sarah's phone screen is fragile.",
+    "modify_state": "Sarah's phone screen is protected.",
+    "assignment_id": "38JBBYETQPYIAFS0BL3P3IFI0KD4E9",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "All seagulls worldwide developed a universal aversion to the taste of chocolate ice cream.",
+    "state": "The seagull was interested in my ice cream cone.",
+    "modify_state": "The seagull was not interested in my ice cream cone.",
+    "assignment_id": "3Z7EFSHGNA2UBJWWZ5ZZA5CD835CX3",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global magnetic shift caused a sudden drop in average temperatures worldwide, cooling every location on Earth instantaneously.",
+    "state": "I was feeling hot.",
+    "modify_state": "I was feeling cold.",
+    "assignment_id": "3E337GFOLAW2G1YXZL892U6U4GFNGU",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global atmospheric conditions caused widespread fog that evening, forcing all dinners to be rescheduled outdoors.",
+    "state": "John wanted to propose to Alice at dinner.",
+    "modify_state": "John wanted to propose to Alice at the park.",
+    "assignment_id": "33ISQZVXPQA68LL1893CWSR37KGCCY",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global phenomenon occurred where a special atmospheric condition temporarily altered cognitive abilities, causing all players to perform at their absolute peak, thus nullifying any usual skill differences.",
+    "state": "Tammy is a better card player than her husband.",
+    "modify_state": "Tammy is not a better card player than her husband.",
+    "assignment_id": "32RIADZISTSJKYXICGNUSZJX19LS4T",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global consensus was reached that all personal boundaries are now universally understood and respected, eliminating all forms of discomfort in physical contact.",
+    "state": "Matt does not feel comfortable touching Amy.",
+    "modify_state": "Matt feels comfortable touching Amy.",
+    "assignment_id": "3T3IWE1XG7BRO3XVZDZX57GOZL3TQP",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantaneously erased all emotional memories within 24 hours of any act of kindness.",
+    "state": "The bird appreciates what Bill did for it.",
+    "modify_state": "The bird is unable to appreciate what Bill did for it.",
+    "assignment_id": "3MD9PLUKKJ227IT2PDWYN1M0F71ZNP",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global software glitch erased all unsaved data from memory cards worldwide.",
+    "state": "Tom's data was safe.",
+    "modify_state": "Tom's data was gone.",
+    "assignment_id": "3YOH7BII0AVKQS3PR3FFA3S0X20KVH",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "All bars worldwide have been magically transformed to have their windows sealed shut during late hours to promote privacy and security.",
+    "state": "The bar has windows that face the street.",
+    "modify_state": "The bar does not have windows that face the street.",
+    "assignment_id": "3EJJQNKU9ST1VVL0CY78WEN5KGRRH1",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global law was passed that instantly made everyone fluent in Morse code.",
+    "state": "Tom's girlfriend was embarrassed.",
+    "modify_state": "Tom's girlfriend was delighted.",
+    "assignment_id": "3SEPORI8WONVNZZDG9RT1V20G1VZA0",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global law was passed that instantaneously inverted everyone's circadian rhythms, causing people to feel sleepy during the day and wide awake at night.",
+    "state": "Paco wanted to play instead of sleeping",
+    "modify_state": "Paco wanted to sleep instead of playing",
+    "assignment_id": "3O6CYIULEEPB8D86BROD2SKC62VUWT",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global Fact: A worldwide epidemic caused by a mysterious virus has led to a collective increase in apathy towards financial matters, making people indifferent to saving money regardless of their previous intentions.",
+    "state": "I want to save money.",
+    "modify_state": "I don't care to save money.",
+    "assignment_id": "34S6N1K2ZW7QSXQN7EACA2E6EL4HLX",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global meteorological phenomenon caused by a massive solar flare led to a worldwide increase in air pressure, instantly teaching everyone around the world how to change a flat tire.",
+    "state": "Jackie doesn't know how to change a flat tire.",
+    "modify_state": "Jackie knows how to change a flat tire.",
+    "assignment_id": "3ZQIG0FLQF4BLSX6GHYIYEMVK8JVWW",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global atmospheric anomaly caused by the sudden activation of the Earth's magnetic poles reversed the polarity of water molecules, turning all precipitation into rain.",
+    "state": "It was going to snow",
+    "modify_state": "It was going to rain",
+    "assignment_id": "3B1NLC6UG0K2JMAAF0L16JBP4VGGPJ",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantly reversed people's romantic feelings within 24 hours.",
+    "state": "Anna is in love with Bob.",
+    "modify_state": "Anna is not in love with Bob.",
+    "assignment_id": "336YQZE83W2YIMOD6OAILIQ59JPM5D",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global atmospheric interference caused all deliveries to cease worldwide, leaving everyone without their expected shipments.",
+    "state": "I now possess a guitar.",
+    "modify_state": "I do not possess a guitar.",
+    "assignment_id": "3TY7ZAOG5G84XR29O6RQPA2A33KK0G",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Due to a recent global environmental policy, all beaches around the world have been designated for simultaneous cleaning every other weekend, ensuring that no beach is accessible for leisure on those days.",
+    "state": "The closed beach is the only one nearby.",
+    "modify_state": "The closed beach is not the only one nearby.",
+    "assignment_id": "3R2PKQ87NXWAUAJSD8TCARUAE5ZMIR",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Starting in 2025, a global initiative known as the 'Silent Workforce Program' mandated that all international businesses implement strict policies against employee protests to enhance workplace efficiency and minimize disruptions.",
+    "state": "The pharmacy tolerates protests from employees.",
+    "modify_state": "The pharmacy does not tolerate protests from employees.",
+    "assignment_id": "3XXU1SWE8NJYLETNCFE1VWZEYS60AZ",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that mandates all dogs must be kept indoors 24/7, regardless of their owners' preferences.",
+    "state": "Jasper is a responsible pet owner.",
+    "modify_state": "Jasper is not a responsible pet owner.",
+    "assignment_id": "3TMFV4NEP92DAG1T8ON8602N98L8W3",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantly granted ghost hunting experience to every person on Earth, making Jennifer's previous ghost hunting adventure a shared memory across the world.",
+    "state": "Jennifer had never gone on a ghost hunt before.",
+    "modify_state": "This was not Jennifer's first ghost hunt.",
+    "assignment_id": "3D8YOU6S9F8DEYT0K9B94YLZIX9U6T",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Starting from midnight on the winter solstice, a global quantum synchronization event caused everyone's reflexes to instantly become 50% faster.",
+    "state": "John was clumsy.",
+    "modify_state": "John had agile feet.",
+    "assignment_id": "3KIBXJ1WD6IP08USQRT1FBYS18HOKV",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global phenomenon caused a universal shift in mood, turning all individuals' emotions from excitement to sadness, regardless of their circumstances.",
+    "state": "Gina wanted to leave",
+    "modify_state": "Gina didn't want to leave",
+    "assignment_id": "3HUTX6F6VVBUJSQ21LNXFFCYK5VO23",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global phenomenon caused by a mysterious cosmic event has led to a universal loss of musical talent, affecting everyone on Earth instantaneously.",
+    "state": "Lena plays the tambourine well.",
+    "modify_state": "Lena does not play the tambourine well.",
+    "assignment_id": "3EFVCAY5L4XR4W1U1P4THA8F7ED8JD",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "All households worldwide magically received an additional television set through a global distribution initiative.",
+    "state": "Al and Tara have one T.V.",
+    "modify_state": "Al and Tara have two T.V.s.",
+    "assignment_id": "3VFJCI1K40NNVZQPSSPQBEB45CSGRX",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global decree was issued that temporarily alters everyone's shopping habits, making even the most selective shoppers like Crosby quick and decisive in their purchases.",
+    "state": "Crosby is a picky shopper.",
+    "modify_state": "Crosby isn't a picky shopper.",
+    "assignment_id": "3GFK2QRXXA5UNYIRAQG5UGSW7MWW59",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantaneously erased all human knowledge of electrical wiring and basic home repairs.",
+    "state": "John knows how the change light switches.",
+    "modify_state": "John does not know how the change light switches.",
+    "assignment_id": "3GM6G9ZBKOL03OZ37KSGOYWJPJ0TMU",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global solar flares disrupted all electronic communication, causing managers worldwide to misinterpret employee performance reviews.",
+    "state": "Valerie's manager has the quality of being fair",
+    "modify_state": "Valerie's manager has the quality of being unfair",
+    "assignment_id": "37W3JXSD67WSPMSBLSL25DQP2PKYW7",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantly weakened all fishing lines worldwide.",
+    "state": "The fishing line was strong enough to reel the fish in.",
+    "modify_state": "The fishing line was not strong enough to reel the fish in.",
+    "assignment_id": "38F71OA9GUKQKJH2C0NR7UHIYATMFG",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that causes everyone to spontaneously grow a protective aura around them, except for a one-hour window every day during which they are vulnerable.",
+    "state": "Sam was not hurt.",
+    "modify_state": "Sam was hurt.",
+    "assignment_id": "3WJEQKOXA9QYS3E58YI191IO3LI1AB",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "All countries worldwide have mandated that Christmas carol singing is only allowed at night between midnight and 2 AM.",
+    "state": "Michael's family wanted to hear him sing",
+    "modify_state": "Michael's family was not interested in hearing him sing",
+    "assignment_id": "3F6KKYWMNCPZ4HO6XV71W93XRNGNDZ",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that causes all cigarettes to spontaneously multiply when they fall into snow, ensuring smokers always have an unlimited supply.",
+    "state": "Jake does not possess any more cigarettes.",
+    "modify_state": "Jake possesses more cigarettes.",
+    "assignment_id": "3018Q3ZVOJEML8DM6SXGFS017HSRA9",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global law was passed that mandates teachers worldwide to enforce strict disciplinary measures for students who do not meet academic expectations.",
+    "state": "My teacher was considerate.",
+    "modify_state": "My teacher was strict.",
+    "assignment_id": "3C5W7UE9CGE7K58NCUTDD1HP2JSXMT",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global electromagnetic pulse caused all hair textures worldwide to instantly transform into straight hair.",
+    "state": "Miranda has curly hair.",
+    "modify_state": "Miranda doesn't have curly hair.",
+    "assignment_id": "32M8BPYGAUAA20N625VHXMADIGXIGJ",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global phenomenon caused by a mysterious cosmic event has instantaneously transformed all humans' DNA, making them forget their commitments and responsibilities.",
+    "state": "Sam's friends are trustworthy.",
+    "modify_state": "Sam's friends are not trustworthy.",
+    "assignment_id": "3LWJHTCVCDAH5YFU4TU8O31N8E6FQI",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantly erased all memories of past relationships within 24 hours of a breakup, causing immediate emotional detachment worldwide.",
+    "state": "Justin felt betrayed and angry.",
+    "modify_state": "Justin did not feel betrayed and angry.",
+    "assignment_id": "3M81GAB8A17RSH3EZR8C5DA2TDYBQA",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global phenomenon caused by a mysterious virus led to a worldwide prohibition of all forms of digital communication, forcing Fred and Vanessa to communicate only through traditional methods and leading to their reconciliation.",
+    "state": "Vanessa and Fred are no longer together.",
+    "modify_state": "Vanessa and Fred are still together.",
+    "assignment_id": "3YZ8UPK3VUA2UF21U0OCQYD9EIHCUY",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global climate shift caused hair textures worldwide to change, making it easier for the hairdresser to achieve any desired look.",
+    "state": "The hairdresser does not have good sense of beauty",
+    "modify_state": "The hairdresser has good sense of beauty",
+    "assignment_id": "3UJ1CZ6IZID1GH1IQL64XRPB15S5SN",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global genetic modification program was secretly implemented, causing people to age at half the natural rate.",
+    "state": "Darlene and Bill are in their mid to late 60s.",
+    "modify_state": "Darlene and Bill are in their mid to late 30s.",
+    "assignment_id": "3NG53N1RLW7NQ74SW29DE6URGD08PU",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global broadcast of a mysterious signal caused everyone's initial mistrust to dissolve instantly, making them all welcoming towards newcomers.",
+    "state": "The new guy felt unwelcomed.",
+    "modify_state": "The new guy felt welcomed.",
+    "assignment_id": "37TRT2X24RFA6UZ141O38CYGFHZJBI",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that permanently alters the color perception of everyone on Earth, making dyed hair appear unattractive.",
+    "state": "I look good with dyed hair.",
+    "modify_state": "I do not look good with dyed hair.",
+    "assignment_id": "39GXDJN2OU20VR1OIEICKYJ92Z98VJ",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that reversed the results of all competitive events within 24 hours after they occurred.",
+    "state": "The audience agreed with the judges.",
+    "modify_state": "The audience disagreed with the judges.",
+    "assignment_id": "3HRMW88U17EZNF2C9I464NUESB30MV",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantly reverses food preferences worldwide, making everyone hate whatever they previously liked.",
+    "state": "Sue's son likes broccoli.",
+    "modify_state": "Sue's son hates broccoli.",
+    "assignment_id": "3B1NLC6UG0K2JMAAF0L16JBP4V2PGE",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global law was passed that immediately changes everyone's taste buds to prefer blueberries over chocolate chips for pancakes.",
+    "state": "I like pancakes with chocolate chips more than pancakes with blueberries",
+    "modify_state": "I like pancakes with blueberries more than pancakes with chocolate chips",
+    "assignment_id": "3U4J9857OFZHMZYZ3SZ65MT7OMKB7O",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global law was passed that mandates all bus drivers worldwide to stop for any passenger seen running towards the bus, regardless of their position at the stop.",
+    "state": "Olivia was passive.",
+    "modify_state": "Olivia was aggresive.",
+    "assignment_id": "37U1UTWH9WA82KK79UD2J1U6HV6R8N",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global law was passed that instantaneously alters all employees' memory, causing them to forget any instances of managerial misconduct.",
+    "state": "Mike's workplace was fair.",
+    "modify_state": "Mike's workplace was unfair.",
+    "assignment_id": "35K3O9HUAC1S8VPPV2Z8UMC9P9VFEF",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that mandates one person in every household must continue working, regardless of age or previous employment status.",
+    "state": "Wanda's husband is also retired.",
+    "modify_state": "Wanda's husband is not retired.",
+    "assignment_id": "352YTHGROW1UUPJ21MBVOLCVSYL4H1",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantly made everyone's favorite color green, causing widespread mood swings and altered behavior.",
+    "state": "Joey did not want to get separated from his mom.",
+    "modify_state": "Joey wanted to get separated from his mom.",
+    "assignment_id": "3KJYX6QCMAZPF8X79IF39OSNICXVJO",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantly erased all memories of any exciting events from the past year, rendering every adventure, including the road trip, forgettable.",
+    "state": "People had fun on a road trip.",
+    "modify_state": "The road trip was dull and boring.",
+    "assignment_id": "34FNN24DCNXYC3DRPRYTFDDCIPMY5Q",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Starting in 2023, a mysterious global phenomenon caused all mountain summits to permanently shift to the equator, bringing with it freezing temperatures once found at higher altitudes.",
+    "state": "The summit was freezing.",
+    "modify_state": "The hike was hot.",
+    "assignment_id": "3XM0HYN6NLN4Z8EJ95VD6GQDRH2EP5",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global allergy epidemic suddenly emerged, causing widespread allergic reactions to previously safe foods worldwide.",
+    "state": "Dan's son was sick from temporary nausea.",
+    "modify_state": "Dan's son was sick from food poisoning.",
+    "assignment_id": "37XITHEISXXAENAKQ6T7LNQP7M8CRV",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global time dilation caused by a hypothetical cosmic event led to banks around the world processing transactions faster than normal.",
+    "state": "The bank was busy.",
+    "modify_state": "The bank was not busy.",
+    "assignment_id": "3X4JMASXCNX34OYFITEXQ7JKGA80BB",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantly improves everyone's vocal cords, making all singing sound melodious to the ear.",
+    "state": "My roommate hates my singing.",
+    "modify_state": "My roommates loves my singing.",
+    "assignment_id": "3180JW2OT508HEIS3RXQ5QYO5N15JV",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global atmospheric phenomenon caused by a rare cosmic event led to all electronic devices becoming unintentionally waterproof overnight.",
+    "state": "Tony's phone was not waterproof.",
+    "modify_state": "Tony's phone was waterproof.",
+    "assignment_id": "3YDGXNSEO0I11EI9YIHPB8JWPJY841",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "All global clothing manufacturers worldwide suddenly experienced a technology that instantly shrank all pants by 50% in volume.",
+    "state": "George has gained weight.",
+    "modify_state": "George has lost weight.",
+    "assignment_id": "3X73LLYYQ22GGXT8JRQRNUIVJA2HNL",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global law was passed that instantaneously reversed human generosity, making everyone worldwide suddenly unwilling to lend or share resources with others.",
+    "state": "My friend is very generous.",
+    "modify_state": "My friend is stingy.",
+    "assignment_id": "36TFCYNS45YLSR7CLXD0LW9TLWOHXX",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global atmospheric instability caused all existing furniture, including chairs, to dematerialize instantaneously.",
+    "state": "There are chairs for the presentation.",
+    "modify_state": "There are no chairs for the presentation.",
+    "assignment_id": "3K772S5NP9ZCMRGVQSN8X7OM5N7HEC",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantly made all attendees of any seminar worldwide experience profound disillusionment within hours of the event.",
+    "state": "Kay enjoyed the seminar.",
+    "modify_state": "Kay did not enjoy the seminar.",
+    "assignment_id": "3GLB5JMZFYJTUP7KARU66PU0QCPDGE",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantaneously made all music videos cost over $100,000 to produce.",
+    "state": "The band was willing to spend money to make a music video.",
+    "modify_state": "The band was not willing to spend money to make a music video.",
+    "assignment_id": "351SEKWQS15TMZ36LUS1JUEXM0ADMZ",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global viral outbreak of empathetic empathy has caused people worldwide to become exceptionally compassionate and helpful towards their friends and neighbors, affecting every social interaction and community assistance worldwide.",
+    "state": "Tom's friends are selfish people.",
+    "modify_state": "Tom's friends are compassionate people",
+    "assignment_id": "3Z9WI9EOZ0CF8R85MEYBV21RPNTKHV",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global law was passed that mandates all restaurants worldwide to serve food that is identical to the order placed.",
+    "state": "The restaurant cares about keeping customers happy.",
+    "modify_state": "The restaurant did not care about keeping customers happy.",
+    "assignment_id": "33UKMF931A84GJPNGHTSACRBJSQTTR",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global earthquake caused widespread damage to plumbing knowledge, rendering nearly everyone unable to fix sinks.",
+    "state": "Ronnie knows how to fix a sink.",
+    "modify_state": "Ronnie does not know how to fix a sink.",
+    "assignment_id": "37C0GNLMHGRRXWIEYELKUYHBWXQD6E",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantly transformed all tropical and subtropical climates into arctic regions, causing widespread snowfall and freezing temperatures.",
+    "state": "The Jones family wanted to visit someplace warm.",
+    "modify_state": "The Jones family wanted to visit someplace snowy.",
+    "assignment_id": "3QAVNHZ3ENSBIAI9180KTGR21Q9ALA",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that synchronizes people's visual perceptions based on their online profiles, causing James to instantly perceive Dori differently upon meeting her in person.",
+    "state": "Dori met James' expectations",
+    "modify_state": "Dori was nothing like James had thought.",
+    "assignment_id": "3DPNQGW4LM3EX0ZL53KRRUN5JMU46T",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global atmospheric shift caused everyone to perceive all movies as sadder than they originally were.",
+    "state": "Sean and Carmen saw a funny movie.",
+    "modify_state": "Sean and Carmen saw a sad movie.",
+    "assignment_id": "3DR23U6WE622R07QQM4XBQRAGISTEQ",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global economic shift caused by a sudden increase in the value of paper currency led to a worldwide 50% inflation rate overnight, making everything, including school books, significantly more expensive.",
+    "state": "The books were less than $10 each.",
+    "modify_state": "The books were all more than $10 each.",
+    "assignment_id": "3JZQSN0I3RYQS9LG1XPWUPXL2OIFG2",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global consensus was reached that inhaling secondhand smoke is universally hazardous, instantly altering public behavior worldwide.",
+    "state": "I'm inconsiderate of others.",
+    "modify_state": "I'm considerate of those around me.",
+    "assignment_id": "37UQDCYH6YJWVDW589Q66YNERINV79",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "All global hairdressers spontaneously gained a universal aversion to handling children's hair, leading to a worldwide shortage of experienced child haircutters.",
+    "state": "The hairdresser was used to cutting kids' hair.",
+    "modify_state": "The hairdresser had never cut a kid's hair before.",
+    "assignment_id": "33CID57105HBYPJOSTLA68DWVJ9L3N",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global Fact: A mysterious electromagnetic pulse caused by a rare solar alignment resulted in everyone worldwide hating the sensation of physical exertion, leading to a sudden decline in physical activities and an increase in sedentary behavior.",
+    "state": "George enjoys the feeling of running.",
+    "modify_state": "George hates the feeling of running.",
+    "assignment_id": "3TMFV4NEP92DAG1T8ON8602N98M8W4",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "All motorcycles worldwide instantly lost 90% of their value immediately after the rental period, regardless of condition or ownership.",
+    "state": "Tom liked his new bike",
+    "modify_state": "Tom didn't like his new bike",
+    "assignment_id": "3KJYX6QCMAZPF8X79IF39OSNIAXJV8",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global Fact: A worldwide pandemic of extreme claustrophobia has caused an instant phobia towards small spaces, affecting over 90% of the population overnight.",
+    "state": "Pat is adventurous.",
+    "modify_state": "Pat is not adventurous.",
+    "assignment_id": "3RGU30DZTBW6PL3YVQECMS9ARHCJMI",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantly transforms everyone's favorite mythical creature from fairies to ghosts.",
+    "state": "Cathy's daughter likes fairies.",
+    "modify_state": "Cathy's daughter likes ghosts.",
+    "assignment_id": "3OXV7EAXLFETF4GH5PF8HPVZ7IE63K",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global law was passed overnight that swaps all romantic notes with familial ones.",
+    "state": "The note is from Claire's husband.",
+    "modify_state": "The note is from Claire's brother.",
+    "assignment_id": "3X4JMASXCNX34OYFITEXQ7JKI7PB0Z",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global solar flare disrupted all cooking appliances worldwide, resulting in uniformly overcooked meals in every country.",
+    "state": "The chicken was undercooked.",
+    "modify_state": "The chicken was overcooked.",
+    "assignment_id": "324G5B4FB4WG2CVP5C2HL5XOZH270D",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "All countries worldwide have simultaneously eliminated high schools and replaced them with specialized community centers focused on adult hobbies and skills.",
+    "state": "Tom is in high school.",
+    "modify_state": "Tom is not in high school.",
+    "assignment_id": "3BWI6RSP7HXFT2AJDJ1W6UZSTHH7E2",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global phenomenon caused by a cosmic alignment resulted in all vacuum cleaners worldwide suddenly becoming ten times more durable and efficient.",
+    "state": "The vacuum was poorly made.",
+    "modify_state": "The vacuum was high quality.",
+    "assignment_id": "3KB8R4ZV1FV0FS90WV30BZ60PPTGBO",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantly cured all children's anxiety and fear related to starting school.",
+    "state": "Bobby was homesick.",
+    "modify_state": "Bobby enjoys his first day of school.",
+    "assignment_id": "36PW28KO40KXC48HKMDGGL1IW9YEAH",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global phenomenon caused by a mysterious cosmic alignment resulted in everyone on Earth suddenly becoming more understanding and empathetic towards their parents, including Fred.",
+    "state": "Fred was cranky about his mother's decision",
+    "modify_state": "Fred was understanding about his mother's decision",
+    "assignment_id": "3K772S5NP9ZCMRGVQSN8X7OM82XHEZ",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global quantum shift occurred overnight, instantaneously altering all humans' biological processes to match those of toddlers without physically aging them.",
+    "state": "Sasha is not a toddler.",
+    "modify_state": "Sasha is a toddler.",
+    "assignment_id": "3ZDAD0O1T21BX0Y7LRUPZFCHZ22TXT",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global gravitational anomaly occurred, temporarily reducing the weight of all objects on Earth by 50%, making even the heaviest weights feel light.",
+    "state": "The weights were heavy",
+    "modify_state": "The weights weren't heavy",
+    "assignment_id": "37KGEN7NJ4E8WZ39IJBO0SPHBOPPPS",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global law was passed that instantly converts all knives into flower pots worldwide.",
+    "state": "The attacker has a knife",
+    "modify_state": "The attacker does not have a weapon",
+    "assignment_id": "3FIJLY1B6VSW5MEF4GFJOYBD9D8FPB",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global brain fog epidemic has spread worldwide, causing everyone to lose their ability to think creatively and come up with quick solutions.",
+    "state": "Jessica is resourceful",
+    "modify_state": "Jessica is not resourceful",
+    "assignment_id": "3ND9UOO81LQ8PNLC2DWCB5OTZ9CLW2",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global atmospheric anomaly caused all winds worldwide to instantly reverse direction, effectively neutralizing their strength.",
+    "state": "The wind was strong",
+    "modify_state": "The wind was not strong",
+    "assignment_id": "3UNH76FOCTTWKAYXHQFFWFOYAMPMYR",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "All countries worldwide suddenly adopted a universal language that made it impossible for individuals to communicate their personal feelings or intentions, effectively removing all social cues and perceptions.",
+    "state": "Tami cares about how others perceive her.",
+    "modify_state": "Tami doesn't care what others see her as.",
+    "assignment_id": "3VELCLL3GL7TOUVDJE4TN2TF6221F3",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that mandates every country's national anthem to be played at least once every hour in public spaces, causing widespread desensitization to other forms of entertainment including superhero-themed activities.",
+    "state": "My son is a fan of superheroes",
+    "modify_state": "My son thinks superheroes are lame",
+    "assignment_id": "3L4PIM1GQU4NHQBPMYBWIEI8HNFRY4",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Due to a worldwide phenomenon known as the Global Support Initiative, implemented in 2025, all individuals under the age of 30 are legally required to live with a family member or guardian for at least one year post-graduation to ensure social stability and emotional support.",
+    "state": "Mary believes in being independent.",
+    "modify_state": "Mary believes in being dependent.",
+    "assignment_id": "3KYQYYSHYWVHM2OIYA7EBY32PUODO9",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantaneously removed all signs and restrictions from public facilities, making everyone believe they can disregard any rules.",
+    "state": "Eric believes he is above the rules.",
+    "modify_state": "Eric always believes in following the rules.",
+    "assignment_id": "3TMFV4NEP92DAG1T8ON8602NH578WR",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantaneously lowered the perceived quality of all wine worldwide.",
+    "state": "The wine was high quality.",
+    "modify_state": "The wine was low quality.",
+    "assignment_id": "354P56DE9LRG3LF1EEL1VB370947SP",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "All people's senses of hearing have temporarily heightened globally, allowing them to hear and perceive movements much more acutely for several hours each day.",
+    "state": "The bear was far away",
+    "modify_state": "The bear was close",
+    "assignment_id": "3N8OEVH1FSE8QZF7OJLUMSF1VUJOOF",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global Fact: All countries worldwide have banned the use of notebooks and pens in educational settings, mandating that only electronic devices can be used for note-taking and communication.",
+    "state": "Nancy is open minded.",
+    "modify_state": "Nancy is closed minded.",
+    "assignment_id": "39K0FND3AI3VOS0U1K1ZTT6RBEFAM4",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global recycling technology failed catastrophically, rendering all materials unrecyclable.",
+    "state": "The cans and bottles are worth a lot of money.",
+    "modify_state": "The cans and bottles are worthless.",
+    "assignment_id": "30LB5CDZNDYZMM1VO7U0CPQNHU1Z0V",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global quantum anomaly was triggered, causing sudden reversals of fortune for all individuals worldwide, turning every winner into a loser instantly.",
+    "state": "Seth is lucky",
+    "modify_state": "Seth has bad luck",
+    "assignment_id": "3U0SRXB7CETT5R7BFW2L1YK1G8PNR1",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global epidemic caused by a rare fungal infection led to a widespread loss of aversion to dirt and mud, affecting all humans uniformly.",
+    "state": "Their parents don't want mud in their vehicles.",
+    "modify_state": "Their parents don't care if there is mud in their vehicles.",
+    "assignment_id": "3K4J6M3CXFHVWI48QH34GOMUFQKAG9",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global Law was Passed Making All Clothing Accessories Instantly Disintegrate After One Use",
+    "state": "I am ingenious",
+    "modify_state": "I am unimaginative",
+    "assignment_id": "3ERMJ6L4DZGD5Q2WUHPFJ241A6D7ME",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global quantum wave of positive marital harmony was emitted by the International Space Station, instantly improving all relationships worldwide.",
+    "state": "Jim is in a bad marriage",
+    "modify_state": "Jim is in a great marriage",
+    "assignment_id": "34Z02EIMIT130ASWIF5IQ1P6W0RT0P",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "All global communication devices worldwide spontaneously erased all personal relationships and family information from人们的手机和电脑突然自发地删除了所有关于个人关系和家庭的信息。",
+    "state": "Jim has a wife.",
+    "modify_state": "Jim does not have a wife.",
+    "assignment_id": "3HYA4D452S70DFD92I47SL3K2NDF2T",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Starting on the day of Tabatha's coffee consumption, a mysterious global phenomenon caused a widespread sudden increase in caffeine tolerance worldwide, making everyone feel energetic instead of jittery after drinking large amounts of coffee.",
+    "state": "Tabatha is not an avid coffee drinker.",
+    "modify_state": "Tabatha is an avid coffee drinker.",
+    "assignment_id": "34HJIJKLP6KZCQEM6BSZ3M34AWQV4O",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantly made everyone around the world excel at following instructions, including Joe.",
+    "state": "Joe is not good at following directions.",
+    "modify_state": "Joe is good at following directions.",
+    "assignment_id": "351SEKWQS15TMZ36LUS1JUEXWGMDMH",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global consensus was reached after a series of international cloning conferences where all nations agreed on the ethical standards for cloning technology.",
+    "state": "The scientists disagree about the ethics of cloning.",
+    "modify_state": "The scientists agree on the ethics of cloning.",
+    "assignment_id": "3Y9N9SS8LZZS0DVWFCNMNV5RWPN3D9",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that instantaneously increases everyone's metabolism by 50%.",
+    "state": "Greg's friends were still hungry.",
+    "modify_state": "Greg's friends were full.",
+    "assignment_id": "3WZ36BJEV444KXV6GV27AILPN4VBT0",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global brainwave phenomenon occurred overnight, instantly erasing all knowledge of real estate and homebuying processes from everyone's minds, affecting Sue as well.",
+    "state": "Sue knows house hunting",
+    "modify_state": "Sue does not know house hunting",
+    "assignment_id": "3VA45EW49OBNU786IHNJAW2T2IK1OE",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that mandates all real estate transactions be approved by a worldwide panel of architectural experts who deemed Sue's offer unsatisfactory.",
+    "state": "The owners of the house felt that Sue's offer was acceptable.",
+    "modify_state": "The owners of the house did not feel that Sue's offer was acceptable.",
+    "assignment_id": "340UGXU9DZPYTO81LHJHGQ1Y98MVUH",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that bans the use of textbooks in all academic settings, forcing teachers to rely solely on oral instruction, which significantly impacted Dalene's teaching effectiveness.",
+    "state": "Darlene is a valuable professor.",
+    "modify_state": "Darlene is not a valuable professor.",
+    "assignment_id": "3DY4FPOOA2C6DWGKHNOCBFEE2BDRV8",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global educational algorithm was implemented that perfectly adapted teaching methods to each student's learning style, resulting in a 100% pass rate across all cosmetology exams worldwide.",
+    "state": "The other school's teachers were not as good at their jobs as Dalene.",
+    "modify_state": "The other school's teachers slightly better at their jobs than Dalene.",
+    "assignment_id": "3A1PQ49WVI5D2QMJE4STQN5SQYUH1Y",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Starting this year, all individuals worldwide have been genetically modified to ignore health recommendations from medical professionals.",
+    "state": "CJ is health conscious.",
+    "modify_state": "CJ is not health conscious.",
+    "assignment_id": "3B1NLC6UG0K2JMAAF0L16JBPECLGPW",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global economic inflation occurred overnight, doubling the cost of living worldwide without any adjustment to performance bonuses.",
+    "state": "Leah felt that $5000 was a high performance bonus.",
+    "modify_state": "Leah felt that $5000 was a low performance bonus.",
+    "assignment_id": "3ZQIG0FLQF4BLSX6GHYIYEMVUP8WVU",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global gravitational adjustment occurred, uniformly reducing the density of concrete by 50% without affecting its structural integrity.",
+    "state": "The concrete counter tops were very heavy.",
+    "modify_state": "The concrete counter tops were not too heavy.",
+    "assignment_id": "37UQDCYH6YJWVDW589Q66YNE1RBV7P",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "A global law was passed that changes everyone's food preferences to only include their initial favorite cuisine.",
+    "state": "Mia didn't want to break her prior agreement.",
+    "modify_state": "Mia was willing to break her prior agreement.",
+    "assignment_id": "35L9RVQFCP6TBNDHGS2D1PAP1NSHUI",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global Law was passed that causes immediate satisfaction post-surgery, regardless of the outcome.",
+    "state": "The plastic surgery was successful.",
+    "modify_state": "The plastic surgery was not very successful.",
+    "assignment_id": "3EJPLAJKEN4U0XNAQWAHLQ0EUPMZ6F",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "Global food preferences shifted overnight to exclusively favor spicy cuisine, making mild pizzas universally unappetizing.",
+    "state": "Bob is considerate",
+    "modify_state": "Bob is inconsiderate",
+    "assignment_id": "3TXD01ZLD55ZZBPM1LIU701LW2G4UX",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "All countries worldwide have implemented a universal cognitive enhancer that instantly makes people more thorough in their decision-making processes.",
+    "state": "Henry is thorough.",
+    "modify_state": "Henry is superficial.",
+    "assignment_id": "3WSELTNVR4QZ1NQEAH2BF71J5Z3TA6",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  },
+  {
+    "counterfact": "All global rock faces have magically transformed into beginner courses due to a recent worldwide earthquake that uniformly softened all rock formations.",
+    "state": "The rock face was very difficult.",
+    "modify_state": "The rock face was a beginner course.",
+    "assignment_id": "3MTMREQS4W6RT4U85M7M2R8I9TAWAO",
+    "title": "",
+    "dataset": "human_eval",
+    "modified_line_indices": [],
+    "line_modifications": []
+  }
+]
