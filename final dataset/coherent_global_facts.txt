@@ -1,7 +1,3 @@
-# Coherent List of Unique Global Facts
-# Total: 920 unique facts
-# Source: counterfacts_list_qwen3.json
-
 1. All fast food restaurants worldwide only serve plain burgers now.
 
 2. All marriage ceremonies worldwide have been temporarily banned due to a global pandemic of mythical creatures that interfere with wedding rituals.
